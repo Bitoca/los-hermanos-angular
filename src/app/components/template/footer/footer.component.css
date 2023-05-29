@@ -1,0 +1,19 @@
+.footer{
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #42314b;
+}
+
+.footer >span{
+  font-weight: 200;
+  font-size: 1rem;
+}
+.red{
+  color: rgb(227,94,107);
+}
+
+.v-middle{
+  vertical-align: middle;
+}
